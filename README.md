@@ -62,4 +62,5 @@ java -cp out stationmanagement.StationManagement
 
 ## 👤 Author
 
-**Haitham Hani Dalloul** – Al-Aqsa University
+**Haitham Hani Dalloul** –
+Java training project – Al-Azeema for Management Consulting and Training
